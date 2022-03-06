@@ -18,10 +18,9 @@ Project developed during the [B7Web](https://b7web.com.br) course.
 - Responsiveness
 
 ## Layout
----
 
 ![Page layout](/src/assets/layout.png "Page layout")
 
 ## Reapplied calculation
----
+
 ![Reapplied calculation](/src/assets/calc_imc.png "Reapplied calculation")
