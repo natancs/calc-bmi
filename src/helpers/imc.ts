@@ -22,7 +22,7 @@ export function calculateImc(height: number, weight: number) {
       imc < levels[i].imc[1]
     ) {
       let level = { ...levels[i] };
-      level.yourImc = imc;
+      level.yourImc = parseFloat(imc.toFixed(2));
       return level;
     }
   }
